@@ -6,25 +6,35 @@ Title
 
 Badges
 
-Overview
+📖 Abstract
 
-✨ Key Features
+🎯 Research Motivation
+
+✨ Key Contributions
 
 🏗️ System Architecture
 
-📂 Repository Structure
+⚙️ Methodology
 
-⚙️ Installation
+📊 Experimental Setup
+
+📈 Results and Performance
+
+📂 Repository Structure
 
 🚀 Quick Start
 
-📊 Experimental Results
+⚙️ Installation
+
+🔬 Reproducibility
 
 📄 Related Publication
 
 📖 Citation
 
-🗺️ Roadmap
+🗺️ Future Work
+
+🤝 Contributing
 
 📜 License
 
